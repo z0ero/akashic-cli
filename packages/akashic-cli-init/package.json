@@ -52,7 +52,7 @@
     "@akashic/akashic-cli-extra": "1.5.43",
     "commander": "8.3.0",
     "fs-extra": "10.0.1",
-    "node-fetch": "2.6.7",
+    "node-fetch": "3.2.1",
     "prompt": "1.2.2",
     "unzipper": "^0.10.0"
   },
